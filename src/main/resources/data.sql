@@ -1,0 +1,1 @@
+INSERT INTO EMPLOYEE (id, current_employee, name) VALUES (1, true,'Andre VDR');
