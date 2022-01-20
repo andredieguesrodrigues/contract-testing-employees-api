@@ -100,4 +100,4 @@ if errorlevel 1 (
 
 :: Return to repo dir (specify your root repo dir)
 
-cd C:\Users\andrevinicius.rodrig\Desktop\docAndre\FF\Repos\employees-api
+cd C:\<<root repo dir>>
