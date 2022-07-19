@@ -9,9 +9,9 @@ It's an API that provides information related workers registered in a company.
 From now the API (/employee) just exposes verbs GET and POST to treat the id, data and check if a employee is a current
 employee or not. 
 
-In perspective of contract testing, this API is the consumer and will publish the results of tests everytime that needs to deploy app.
+In perspective of contract testing, this API is the provider and will publish the results of tests everytime that needs to deploy app.
 
-It is necessary to run this application together with its provider (user).
+It is necessary to run this application together with its consumer (user).
 
 ## Requirements
 
